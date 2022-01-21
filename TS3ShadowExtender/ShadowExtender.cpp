@@ -5,8 +5,6 @@
 #include "hooking.h"
 #include "config.h"
 #include "filesys.h"
-#pragma comment(lib, "LDCommon.lib")
-#pragma comment(lib, "LDHooking.lib")
 
 namespace ShadowExtender
 {
